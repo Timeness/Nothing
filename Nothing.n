@@ -1,0 +1,6 @@
+using System;
+module Program {
+    Main() : void {
+        Console.WriteLine("Nothing from Nemerle");
+    }
+}
